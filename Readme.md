@@ -1,5 +1,3 @@
-# Membuat file README.md dengan konten di atas
-readme_content = """
 # **UAS Algoritma dan Pemrograman 1**
 
 Proyek ini dibuat sebagai bagian dari Ujian Akhir Semester (UAS) mata kuliah **Algoritma dan Pemrograman 1**. Program ini mengimplementasikan **algoritma Merge Sort** untuk mengurutkan data pesanan transportasi online berdasarkan waktu pemesanan.
